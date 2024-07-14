@@ -14,7 +14,7 @@ Hotel booking cancellations become a crucial problem to solve as it leads to rev
 2. Additional costs of distribution channels by increasing commissions or paying for publicity to help sell these rooms
 
 3. Lowering prices last minute, so the hotel can resell a room, resulting in reduced profit margins
-4. 
+
 ## Problem Definition:
 The INN Hotels Group has been contending with the challenge of rising cancellations for nearly a year now. However, the last three months witnessed a **rise in inventory loss due to cancellation rise to an all-time high of 18%**. This has led to a jump in the **revenue loss to an all-time high of approx. \$0.25 million annually**. This has significantly impacted their profit margins.
 
